@@ -97,7 +97,8 @@ This is **Lab 2 of 6** in a TensorFlow/Keras deep learning learning series:
 
 ## 👤 Author
 
-**Sainath AC**
+**Sainatha C**
 AI Automation & RPA Engineer | Data Science Practitioner
 
 [![GitHub](https://img.shields.io/badge/GitHub-sainathac-181717?logo=github)](https://github.com/sainathac)
+
